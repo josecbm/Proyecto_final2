@@ -1,0 +1,1 @@
+digraph G {"jose,123,20,20,43,true"->"Tatiana,123,20,20,43,true""jose,123,20,20,43,true"->"miguel,123,20,20,43,true""Tatiana,123,20,20,43,true"->"goku,123,20,20,43,true""miguel,123,20,20,43,true"->"juan,123,20,20,43,true""miguel,123,20,20,43,true"->"nowell,123,20,20,43,true""nowell,123,20,20,43,true"->"ximena,123,20,20,43,true"}
